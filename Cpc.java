@@ -4,6 +4,7 @@ public class Cpc
     {
         System.out.println("hello welcome to se lab ");
         System.out.println("new one created");
+        System.out.println("Hi");
 
     }
 }
